@@ -1,0 +1,10 @@
+---
+name: avriler
+version: 1
+
+cron:
+ - description: xiami
+   url: /xiamicheckin
+   schedule: "*/1 * * * *"
+
+...
